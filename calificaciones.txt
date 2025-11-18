@@ -1,0 +1,2 @@
+Entregadas: 1, 2, 3
+Pendientes: 4, 5, 6
